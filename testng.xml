@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="C:/Users/desus/IdeaProjects/HybridAutomation">
+    <listeners><listener class-name="Utilities.ExtentReportManager"></listener>
+
+            <listener class-name="org.testng.reporters.FailedReporter" />
+
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="test1" >
+
+        <parameter name="os" value="linux"></parameter>
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="testCases.LoginTestData"></class>
+            <class name="testCases.HomePageTest"></class>
+</classes>
+    </test>
+
+</suite>
