@@ -1,60 +1,76 @@
-2024-12-20 12:35:22.854 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 12:35:23.109 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 12:35:23.111 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 12:35:23.117 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 12:42:19.567 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 12:42:19.784 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 12:42:19.784 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 12:42:19.786 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:17:03.060 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 16:17:03.589 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:17:03.590 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:17:03.595 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:23:05.313 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 16:23:06.019 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:23:06.020 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:23:06.026 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:25:58.524 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 16:25:58.916 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:25:58.916 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:25:58.922 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:26:48.501 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 16:26:48.774 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:26:48.774 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:26:48.779 [TestNG-test=test1-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:29:57.914 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 16:29:58.534 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:29:58.534 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:29:58.541 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:30:42.423 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 16:30:42.791 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:30:42.792 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:30:42.796 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:30:48.423 [TestNG-tests-2] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 16:30:48.577 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:30:48.577 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 16:30:48.578 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:03:26.798 [main] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 17:03:26.945 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:03:26.946 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:03:26.950 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:27:37.916 [main] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 17:27:38.101 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:27:38.102 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:27:38.106 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:30:11.050 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 17:30:11.985 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:30:11.986 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:30:11.996 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:30:25.788 [TestNG-tests-2] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 17:30:25.925 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:30:25.925 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:30:25.926 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:32:07.971 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 17:32:08.269 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:32:08.271 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:32:08.276 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:32:12.762 [TestNG-tests-2] INFO  testCases.HomePageTest - Test HomePage_text started
-2024-12-20 17:32:12.891 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:32:12.892 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
-2024-12-20 17:32:12.892 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 11:25:24.184 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 11:25:24.282 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 11:25:24.283 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 11:25:24.289 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:03:51.414 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 12:03:51.515 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:03:51.516 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:03:51.519 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:05:50.462 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 12:05:50.532 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:05:50.532 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:05:50.535 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:10:00.446 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 12:10:00.515 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:10:00.515 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:10:00.517 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:12:37.206 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 12:12:37.278 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:12:37.279 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:12:37.284 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:17:24.862 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 12:17:24.941 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:17:24.941 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:17:24.943 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:29:48.915 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 12:29:49.119 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:29:49.120 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:29:49.122 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:30:39.833 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 12:30:39.900 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:30:39.900 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:30:39.902 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:31:04.860 [main] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 12:31:04.931 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:31:04.932 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 12:31:04.934 [main] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:16:25.902 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 17:16:26.264 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:16:26.265 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:16:26.268 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:17:13.570 [TestNG-tests-2] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 17:17:13.647 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:17:13.647 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:17:13.648 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:18:18.859 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 17:18:19.167 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:18:19.167 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:18:19.174 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:18:30.214 [TestNG-tests-2] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 17:18:32.378 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:18:32.379 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 17:18:32.380 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 21:36:02.925 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 21:36:04.369 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 21:36:04.370 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 21:36:04.380 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 21:36:15.137 [TestNG-tests-2] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 21:36:15.341 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 21:36:15.341 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 21:36:15.342 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:22:19.625 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 22:22:20.589 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:22:20.590 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:22:20.595 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:22:31.054 [TestNG-tests-2] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 22:22:31.205 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:22:31.205 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:22:31.206 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:32:24.179 [TestNG-tests-1] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 22:32:25.454 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:32:25.455 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:32:25.462 [TestNG-tests-1] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:32:34.441 [TestNG-tests-2] INFO  testCases.HomePageTest - Test HomePage_text started
+2025-01-04 22:32:34.604 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:32:34.605 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful
+2025-01-04 22:32:34.605 [TestNG-tests-2] INFO  testCases.HomePageTest - Test passed - HomePage_text validation successful

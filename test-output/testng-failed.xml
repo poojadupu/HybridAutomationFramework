@@ -7,15 +7,8 @@
   </listeners>
   <test thread-count="5" name="test1(failed)">
     <parameter name="os" value="linux"/>
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.HomePageTest">
-        <methods>
-          <include name="setup"/>
-          <include name="HomePage_text"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- testCases.HomePageTest -->
       <class name="testCases.LoginTestData">
         <methods>
           <include name="LoginDataValidation"/>
@@ -23,6 +16,13 @@
           <include name="teardown"/>
         </methods>
       </class> <!-- testCases.LoginTestData -->
+      <class name="testCases.HomePageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="HomePage_text"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- testCases.HomePageTest -->
     </classes>
   </test> <!-- test1(failed) -->
 </suite> <!-- Failed suite [C:/Users/desus/IdeaProjects/HybridAutomation] -->

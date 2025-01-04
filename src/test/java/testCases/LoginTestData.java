@@ -3,8 +3,6 @@ package testCases;
 import PageObjects.HomePage;
 import PageObjects.LoginPage;
 import Utilities.ExcelUtility;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
