@@ -111,7 +111,7 @@ public class BasePageTest {
 //                driver=new ChromeDriver();
                     ChromeOptions c=new ChromeOptions();
                     c.addArguments("--headless");
-                    driver = new ChromeDriver();
+                    driver = new ChromeDriver(c);
                     break;
                 case "edge":
 //                System.setProperty("webdriver.edge.driver","C:\\Users\\desus\\Downloads\\edgedriver_win64\\msedgedriver.exe");
