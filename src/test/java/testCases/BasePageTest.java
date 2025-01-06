@@ -7,6 +7,7 @@ import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.remote.Browser;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -69,6 +70,8 @@ public class BasePageTest {
   //java -jar selenium-server-4.27.0.jar node-http://192.168.29.15:4444/wd/hub
 
             switch(bro.toLowerCase()) {
+
+
                 case "chrome":
                     cap.setBrowserName("chrome");
                     break;
@@ -99,10 +102,15 @@ public class BasePageTest {
 
 
 
+
+
             switch (bro.toLowerCase()) {
+
                 case "chrome":
 //                System.setProperty("webdriver.chrome.driver", "C:\\Users\\desus\\Downloads\\chromedriver_latest\\chromedriver-win64\\chromedriver.exe");
 //                driver=new ChromeDriver();
+                    ChromeOptions c=new ChromeOptions();
+                    c.addArguments("--headless");
                     driver = new ChromeDriver();
                     break;
                 case "edge":
