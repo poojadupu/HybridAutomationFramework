@@ -13,6 +13,7 @@
 
         <parameter name="os" value="linux"></parameter>
         <parameter name="browser" value="chrome"></parameter>
+        <parameter name="env" value="qa"></parameter>
         <classes>
            <class name="testCases.LoginTestData"></class>
             <class name="testCases.HomePageTest"></class>

@@ -35,13 +35,15 @@ public class BasePageTest {
     }
 
      @BeforeMethod
-    @Parameters({"browser","os"})
+    @Parameters({"browser","os","env"})
 
-    public void setup(String bro,String OS) throws IOException {
+    public void setup(String bro,String OS,String env) throws IOException {
 
-        FileInputStream file=new FileInputStream("C:\\Users\\desus\\IdeaProjects\\HybridAutomation\\config.properties");
-        Properties prop=new Properties();
-        prop.load(file);
+
+
+            FileInputStream file = new FileInputStream("C:\\Users\\desus\\IdeaProjects\\HybridAutomation\\config_"+env+".properties");
+            Properties prop = new Properties();
+            prop.load(file);
 
         if(prop.getProperty("execution_environment").equalsIgnoreCase("remote")){
 
