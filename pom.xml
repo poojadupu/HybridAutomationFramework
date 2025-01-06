@@ -30,8 +30,8 @@
         <version>3.5.2</version>
         <configuration>
         <suiteXmlFiles>
-<!--          <suiteXmlFile>testng.xml</suiteXmlFile>-->
-          <suiteXmlFile>Cross_Browser.xml</suiteXmlFile>
+         <suiteXmlFile>testng.xml</suiteXmlFile>
+<!--          <suiteXmlFile>Cross_Browser.xml</suiteXmlFile>-->
 
         </suiteXmlFiles>
         </configuration>
