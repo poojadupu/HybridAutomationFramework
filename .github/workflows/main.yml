@@ -1,0 +1,23 @@
+name: Playwright Tests
+
+on:
+  push:
+    branches:
+      - main # Runs tests when code is pushed to the main branch
+  pull_request:
+    branches:
+      - main # Runs tests on pull requests to the main branch
+
+jobs:
+  test:
+    runs-on: ubuntu-latest # Specifies the machine environment
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3 # Pulls your code from GitHub
+      
+      - name: Install Dependencies
+        run: npm install # Installs required dependencies
+
+      - name: Run Playwright Tests
+        run: npx playwright test --reporter=html # Executes your scripts
